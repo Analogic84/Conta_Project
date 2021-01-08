@@ -13,7 +13,7 @@ public class databaseMyConta {
 	private static final String CONTROLADOR = "com.mysql.jdbc.Driver";
 	private static final String URL = "jdbc:mysql://localhost:3306/databaseMyConta";
 	private static final String USUARIO = "root";
-	private static final String CLAVE = "miarturohermoso2015*";
+	private static final String CLAVE = "********her****2015*";
 	private Connection conn = null;
 	
 	static {
